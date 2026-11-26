@@ -103,16 +103,22 @@ Spectral rulesets for the provider's contracts.
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Domandata Net Authentication](https://apis.io/security/domandata-net/domandata-net-authentication/)
-- [Domandata Net Domain Security](https://apis.io/security/domandata-net/domandata-net-domain-security/)
-- [Domandata Net Trust Center](https://apis.io/security/domandata-net/domandata-net-trust-center/)
-- [Domandata Net Vulnerability Disclosure](https://apis.io/security/domandata-net/domandata-net-vulnerability-disclosure/)
+- [Domandata Authentication](https://apis.io/security/domandata-net/domandata-net-authentication/)
+- [Domandata Domain Security](https://apis.io/security/domandata-net/domandata-net-domain-security/)
+- [Domandata Trust Center](https://apis.io/security/domandata-net/domandata-net-trust-center/)
+- [Domandata Vulnerability Disclosure](https://apis.io/security/domandata-net/domandata-net-vulnerability-disclosure/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Domandata Net Plans Pricing](https://apis.io/plans/domandata-net/domandata-net-plans-pricing/)
+- [Domandata Plans Pricing](https://apis.io/plans/domandata-net/domandata-net-plans-pricing/)
+
+#### FinOps (1)
+
+What the API costs to run, by operation.
+
+- [Domandata Finops](https://apis.io/finops/domandata-net/domandata-net-finops/)
 
 ## Where to find this API
 
@@ -131,18 +137,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 57.7** — strong · rubric 0.27.0 · scored 2026-11-05
+**Kin Score 41.6** — developing · rubric 0.28.0 · scored 2026-11-25
 
 | Facet | Score |
 |---|---|
-| Discoverability | 57.1 |
-| Contract quality | 45.9 |
-| Contract governance | 79.1 |
-| Operational transparency | 42.1 |
+| Discoverability | 56.7 |
+| Contract quality | 17.8 |
+| Contract governance | 35.6 |
+| Operational transparency | 38.1 |
 | Developer ergonomics | 26.2 |
-| Access clarity | 88.9 |
+| Access clarity | 72.3 |
 
-**Agent readiness 25.4** — agent-aware
+**Agent readiness 23.3** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
